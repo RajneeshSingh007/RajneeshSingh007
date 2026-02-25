@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at EPAM Systems, Pune<br>🌱 I’m currently learning Full stack <br>⚡ Fun fact about me is good at chess and gaming
+🔭 I’m currently working at Granicus, Bangalore<br>⚡ Fun fact about me is good at chess and gaming
 
 
 ## 🌐 Socials:
